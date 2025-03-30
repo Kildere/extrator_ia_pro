@@ -1,0 +1,6 @@
+python-docx
+PyPDF2
+pandas
+openpyxl
+textract
+nltk

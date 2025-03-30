@@ -1,0 +1,19 @@
+# Ambiente virtual Python
+venv/
+
+# Dados locais de entrada e saída
+entrada/
+saida/
+chunks/
+relatorios/
+
+# Arquivos temporários e cache
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.db
+
+# Arquivos de sistema ou do VSCode
+*.DS_Store
+.vscode/
